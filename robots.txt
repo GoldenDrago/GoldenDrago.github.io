@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /out/
+
+Sitemap: http://rishabh-kumar.com/sitemap.xml
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/4157066.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove

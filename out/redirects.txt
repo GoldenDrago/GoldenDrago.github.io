@@ -1,0 +1,2 @@
+default,http://rishabh-kumar.com
+din,https://www.linkedin.com/in/rishabh-kumar-9595b484
