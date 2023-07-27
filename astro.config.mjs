@@ -11,7 +11,7 @@ const rehypeExternalLinksConfig = [
 ]
 
 export default defineConfig({
-	site: 'https://vinculum.io/',
+	site: 'https://www.vinculum.io/',
 	trailingSlash: 'never',
 	output: 'static',
 	adapter: vercelStatic(),
@@ -23,7 +23,7 @@ export default defineConfig({
 			rehypePlugins: [ rehypeExternalLinksConfig, rehypePresetMinify ]
 		}),
 		sitemap({
-			filter: page => page !== 'https://vinculum.io/404'
+			filter: page => page !== 'https://www.vinculum.io/404'
 		})
 	],
 	markdown: {
